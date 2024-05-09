@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Imagens criadas por IA Generativa Bing IA;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse projeto foi criado imagens  com cidade modernas e antigas .
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ Bing IA com GPT4
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Crie com script para melhorar o desnvolvimentos das imagens
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Imagens criadas de forma  incriveis  cidades modernas e cidades antigas .
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
